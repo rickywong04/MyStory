@@ -1,6 +1,6 @@
 # Project 1 - *MyStory*
 
-Submitted by: **Ricky Wong*
+Submitted by: **Ricky Wong**
 
 **Name of your app** is an app that introduces Batman and produces some ViewControllers to tell about his backstory.
 
